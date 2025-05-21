@@ -10,7 +10,11 @@ Na poniższy tematy można znaleźć zadania:
 • ﻿﻿Zmienne tablicowe  
 • ﻿﻿Tablice znakowe i obiekty string 
 • Funkcje 
+
 • Rekurencja i przeciążenie funkcji 
+
 • Wskaźniki 
+
 • Struktury danych 
+
 • Operacje na plikach 
