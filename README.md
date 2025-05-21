@@ -21,7 +21,3 @@ Na poniższy tematy można znaleźć zadania:
 • Rekurencja i przeciążenie funkcji 
 
 • Wskaźniki 
-
-• Struktury danych 
-
-• Operacje na plikach 
