@@ -8,9 +8,9 @@ Na poniższy tematy można znaleźć zadania:
 • ﻿﻿Petla while i do-while  
 • ﻿﻿Petla for  
 • ﻿﻿Zmienne tablicowe  
-• ﻿﻿Tablice znakowe i obiekty string
-• Funkcje
+• ﻿﻿Tablice znakowe i obiekty string 
+• Funkcje 
 • Rekurencja i przeciążenie funkcji 
 • Wskaźniki 
 • Struktury danych 
-• Operacje na plikach
+• Operacje na plikach 
